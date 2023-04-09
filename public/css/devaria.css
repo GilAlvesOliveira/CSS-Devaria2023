@@ -24,3 +24,9 @@ h1.title {
 .text-justify {
     text-align: justify;
 }
+
+@media  screen and (min-width:992px) {
+    .widht-50pct-desktop {
+        width: 50% !important;
+    }
+}

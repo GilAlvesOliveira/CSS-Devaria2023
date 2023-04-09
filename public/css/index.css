@@ -4,7 +4,9 @@ main {
     text-align: center;
 }
 .cover-container figure img {
-    width: 100%;
+    width: 98%;
+    border-radius: 20px;
+    border: 5px double #000;
 }
 
 main h3.title {
@@ -24,6 +26,8 @@ main section abbr {
 .section-video
   {
     display: inline-block;
+    border-radius: 20px;
+    border: 5px double #000;
   }
 
 main .section-azure blockquote {
