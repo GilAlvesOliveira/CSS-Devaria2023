@@ -19,6 +19,7 @@ main .contact-form textarea {
     width: 90%;
     padding: 5px 15px;
     outline-color: #3bd42d;
+    border-color: black;
 }
 
 main .contact-form select {
@@ -43,7 +44,7 @@ main .contact-form > div input[type="submit"],
 main .contact-form > div input[type="reset"] {
     width: 100%;
     margin-bottom: 20px;
-    border: none;
+    border: black;
     text-transform: uppercase;
     border-radius: 10px;
     font-size: 1.1em;
