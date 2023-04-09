@@ -89,7 +89,10 @@ main .contact-form > div input[type="reset"] {
     main .contact-form > div input[type="submit"] {
         margin-right: 20px;
     }
-
+    main .contact-form > div input:hover[type="submit"],
+    main .contact-form > div input:hover[type="reset"] {
+        background-color: #fff;
+    }
 
 }
 
