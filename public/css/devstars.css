@@ -1,0 +1,42 @@
+/* Estilos relacionados ao devstars*/
+
+main .title {
+    text-align: center;
+}
+
+.site-devaria {
+    width: 100%;
+    border-radius: 20px;
+    border: 5px double #000;
+    margin-top: 20px;
+}
+
+table, th, td {
+    border: 1PX solid #fff;
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+}
+
+table {
+    width: 95%;
+    margin: 0 15px 0 15px;
+}
+
+.instrucao {
+    text-align: center;
+}
+
+th, td {
+    background-color: #000;
+}
+
+tr:hover {
+    background-color: #424141;
+}
+
+@media  screen and (min-width:992px) {
+    table {
+        text-align: center;
+    }
+}
